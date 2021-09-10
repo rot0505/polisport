@@ -1,0 +1,2671 @@
+[
+    {
+        "folder": "models/2021",
+        "model": [
+            {
+                "id": "factory-polinter",
+                "slug": "factory-polinter",
+                "act": "1",
+                "panoramas": [
+                    {
+                        "id":1,
+                        "name": "DYNAMIC-WAREHOUSE/PF30",
+                        "initialPosition": [0,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "dynamic-warehouse",
+                        "floor": "ground",
+                        "factory": "polinter",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/42", "position": ["-74", "-55", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"poliSport-plastico"
+                            },
+                            {
+                                "to": "/vr/factory-polinter/3", "position": ["113", "-10", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":2,
+                        "name": "DYNAMIC-WAREHOUSE/PF42",
+                        "initialPosition": [1,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "dynamic-warehouse",
+                        "floor": "ground",
+                        "videoName": "pano/PF42/Vid 20201210 111950 20210222203607 1 Reframe.mp4",
+                        "factory": "polinter",
+                        "hotspots": [
+                            {
+                                "position": ["250", "-47", "240"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],"infoId":"decals-greenhouse"
+                            },
+                            {
+                                "position": ["250", "29", "39"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],"infoId":"raw-material-warehouse"
+                            },
+                            {
+                                "to": "/vr/factory-polinter/15", "position": ["250", "1", "-8"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-38", "13", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],"infoId":"dynamic-warehouse-2"
+                            },
+                            {
+                                "position": ["-142", "-46", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "video", "hover": true, "size": [60,60], "hoverSize": [72,72],"infoId":"Falta-video"
+                            },
+                            {
+                                "to": "/vr/factory-polinter/3", "position":  ["-242", "-6", "50"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":3,
+                        "name": "DYNAMIC-WAREHOUSE/PF43",
+                        "initialPosition": [1,0,0.2],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "dynamic-warehouse",
+                        "floor": "ground",
+                        "factory": "polinter",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polinter/1", "position": ["-250", "-20", "-8"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polinter/2", "position": ["189", "-1", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":4,
+                        "name": "OPEN-SPACE/PF34",
+                        "initialPosition": [1,0,0.3],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "open-space",
+                        "floor": "1st-floor",
+                        "videoName": "pano/PF34/VID_20201210_083929_20210222203403_ compress.mp4",
+                        "factory": "polinter",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polinter/5", "position": ["-105", "3", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-208", "4", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"open-space-polinter"
+                            },
+                            {
+                                "to": "/vr/factory-polinter/9", "position": ["-400", "0", "141"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polinter/8", "position": ["140", "20", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-250", "0", "141"], "rotation": [1.5707,0,3.14],
+                                "type": "video", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":5,
+                        "name": "OPEN-SPACE/PF35",
+                        "initialPosition": [0,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "open-space",
+                        "floor": "1st-floor",
+                        "factory": "polinter",
+                        "hotspots": [
+                            {
+                                "position": ["250", "13", "138"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"open-space-polinter"
+                            },
+                            {
+                                "to": "/vr/factory-polinter/4", "position": ["192", "1", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+
+                        ]
+                    },
+                    {
+                        "id":6,
+                        "name": "POLINTER-ENTRY/PF31",
+                        "initialPosition": [-60,0,-450],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polinter-entry",
+                        "floor": "ground",
+                        "factory": "polinter",
+                        "hotspots": [
+                            {
+                                "position": ["11", "24", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"polinter-the-group-injection-plant"
+                            },
+                            {
+                                "to": "/vr/factory-polinter/8", "position": ["112", "-5", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                    ]
+                    },
+                    {
+                        "id":7,
+                        "name": "POLINTER-ENTRY/PF32",
+                        "initialPosition": [-145,0,85],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polinter-entry",
+                        "floor": "ground",
+                        "factory": "polinter",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polinter/6", "position": ["-250", "-70", "112"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["1", "-89", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"polinter-the-group-injection-plant"
+                            },
+                            {
+                                "to": "/vr/factory-polinter/8", "position": ["-116", "-5", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":8,
+                        "name": "POLINTER-ENTRY/PF33",
+                        "initialPosition": [100,0,-245],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polinter-entry",
+                        "floor": "1st-floor",
+                        "factory": "polinter",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polinter/6", "position": ["-250", "-80", "-162"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polinter/4", "position": ["-113", "-30", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":9,
+                        "name": "POLINTER-SHOP-FLOOR/PF36",
+                        "initialPosition": [-0.3,0.2,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polinter-shop-floor",
+                        "floor": "ground",
+                        "factory": "polinter",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polinter/10", "position": ["122", "-24", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polinter/4", "position": ["-150", "280", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":10,
+                        "name": "POLINTER-SHOP-FLOOR/PF37",
+                        "initialPosition": [0,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polinter-shop-floor",
+                        "floor": "ground",
+                        "factory": "polinter",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polinter/9", "position": ["-206", "-13", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polinter/11", "position": ["-16", "-17", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-250", "139", "-55"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,"infoId":"automatic-feeding"
+                            }
+                        ]
+                    },
+                    {
+                        "id":11,
+                        "name": "POLINTER-SHOP-FLOOR/PF38",
+                        "initialPosition": [-1, 0, -0.7],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polinter-shop-floor",
+                        "floor": "ground",
+                        "factory": "polinter",
+                        "hotspots": [
+                            {
+                                "position": ["-31", "93", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,"infoId":"automatic-feeding"
+                            },
+                            {
+                                "position": ["249", "29", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,"infoId":"mattec"
+                            },
+                            {
+                                "position": ["250", "14", "-102"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,"infoId":"gravimetric-or-volumetric-dozers"
+                            },
+                            {
+                                "to": "/vr/factory-polinter/10", "position": ["-237", "-11", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polinter/12", "position": ["234", "-15", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+
+                        ]
+                    },
+                    {
+                        "id":12,
+                        "name": "POLINTER-SHOP-FLOOR/PF39",
+                        "initialPosition": [0,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polinter-shop-floor",
+                        "floor": "ground",
+                        "videoName": "pano/PF39/VID_20201210_123649_20210222204053_1 reframe.mp4",
+                        "factory": "polinter",
+                        "hotspots": [
+                            {
+                                "position": ["-250", "51", "81"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],"infoId":"gravimetric-or-volumetric-dozers"
+                            },
+                            {
+                                "position": ["-122", "83", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],"infoId":"automatic-feeding"
+                            },
+                            {
+                                "to": "/vr/factory-polinter/11", "position": ["23", "-08", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polinter/13", "position": ["-7", "-10", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-250", "-36", "-9"], "rotation": [1.5707,0,3.14],
+                                "type": "video", "hover": true, "size": [60,60], "hoverSize": [72,72],"infoId":"video"
+                            }
+                        ]
+                    },
+                    {
+                        "id":13,
+                        "name": "POLINTER-SHOP-FLOOR/PF40",
+                        "initialPosition": [1,0,0],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polinter-shop-floor",
+                        "floor": "ground",
+                        "videoName": "pano/PF40/VID_20201210_124937_20210222205132_1 reframe.mp4",
+                        "factory": "polinter",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polinter/14", "position": ["-250", "-17", "-216"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polinter/12", "position": ["222", "-11", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-171", "-35", "270"], "rotation": [1.5707,0,3.14],
+                                "type": "video", "hover": true, "size": [60,60], "hoverSize": [72,72],"infoId":"video"
+                            }
+                        ]
+                    },
+                    {
+                        "id":14,
+                        "name": "POLINTER-SHOP-FLOOR/PF41",
+                        "initialPosition": [0,0,-1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polinter-shop-floor",
+                        "floor": "ground",
+                        "factory": "polinter",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polinter/15", "position": ["89", "-16", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polinter/13", "position": ["-64", "-13", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":15,
+                        "name": "POLINTER-SHOP-FLOOR/PF45",
+                        "initialPosition": [1,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polinter-shop-floor",
+                        "floor": "ground",
+                        "factory": "polinter",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polinter/14", "position": ["-159", "-19", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polinter/16", "position": ["-250", "-15", "-201"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polinter/2", "position": ["208", "-18", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72],"infoId":"dynamic-warehouse"
+                            }
+                        ]
+                    },
+                    {
+                        "id":16,
+                        "name": "POLINTER-SHOP-FLOOR/PF46",
+                        "initialPosition": [-145,0,85],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polinter-shop-floor",
+                        "floor": "ground",
+                        "videoName": "pano/PF46/VID_20201210_133048_20210222205629_1 reframe.mp4",
+                        "factory": "polinter",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polinter/17", "position": ["250", "-14", "-148"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["250", "127", "-54"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],"infoId":"mold-parking"
+                            },
+                            {
+                                "position": ["-250", "-30", "-158"], "rotation": [1.5707,0,3.14],
+                                "type": "video", "hover": true, "size": [60,60], "hoverSize": [72,72],"infoId":"video"
+                            },
+                            {
+                                "position": ["-250", "64", "-143"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],"infoId":"cartesian-robot"
+                            },
+                            {
+                                "to": "/vr/factory-polinter/15", "position": ["-250", "-17", "141"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":17,
+                        "name": "POLINTER-SHOP-FLOOR/PF47",
+                        "initialPosition": [1,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polinter-shop-floor",
+                        "floor": "ground",
+                        "videoName": "pano/PF47/VID_20201210_111950_20210222203607_1_1 reframe.mp4",
+                        "factory": "polinter",
+                        "hotspots": [
+                            {
+                                "position": ["-250", "-42", "-244"], "rotation": [1.5707,0,3.14],
+                                "type": "video", "hover": true, "size": [60,60], "hoverSize": [72,72],"infoId":"video"
+                            },
+                            {
+                                "to": "/vr/factory-polinter/16", "position": ["-209", "-17", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "factory-polisport",
+                "slug": "factory-polisport",
+                "act": "2",
+                "panoramas": [
+                    {
+                        "id":1,
+                        "name": "BICYCLE-WAREHOUSE/PF12",
+                        "initialPosition": [-1,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "bicycle-warehouse",
+                        "floor": "ground",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["250", "21", "-66"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"cargo-bay-1"
+                            },
+                            {
+                                "position": ["29", "34", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"cargo-bay-2"
+                            },
+                            {
+                                "position": ["-68", "24", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"cargo-bay-3"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/3", "position": ["206", "-3", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-250", "49", "177"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"bicycle-warehouse"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/2", "position": ["22", "-13", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":2,
+                        "name": "BICYCLE-WAREHOUSE/PF13",
+                        "initialPosition": [-145,0,85],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "bicycle-warehouse",
+                        "floor": "ground",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["250", "49", "-92"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"cargo-bay-1"
+                            },
+                            {
+                                "position": ["-119", "95", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"cargo-bay-2"
+                            },
+                            {
+                                "position": ["-250", "37", "-128"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"cargo-bay-3"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/1", "position": ["250", "-13", "241"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":3,
+                        "name": "BICYCLE-WAREHOUSE/PF7",
+                        "initialPosition": [1,0,-0.3],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "bicycle-warehouse",
+                        "floor": "ground",
+                        "videoName": "pano/PF7/Vid 20201209 090157 20210222201209 compress.mp4",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["-106", "-27", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "video", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"video"
+                            },
+                            {
+                                "position": ["17", "42", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"bicycle-warehouse"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/44", "position": ["250", "-16", "38"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/1", "position": ["-250", "-6", "-39"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":4,
+                        "name": "ENTRANCE-HALL/PF83",
+                        "initialPosition": [0,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "entrance-hall",
+                        "floor": "ground",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/8", "position": ["250", "-62", "-76"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-37", "-67", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"polisport-restyling-kits"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/5", "position": ["88", "-40", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-250", "44", "182"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"what-we-are-all-about"
+                            }
+                        ]
+                    },
+                    {
+                        "id":5,
+                        "name": "ENTRANCE-HALL/PF85",
+                        "initialPosition": [1,0,-0.4],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "entrance-hall",
+                        "floor": "ground",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/4", "position": ["-250", "-23", "184"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-250", "-62", "-61"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"welcome-to-polisport-world"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/6", "position": ["-250", "-43", "-180"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-250", "-43", "92"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"polisport-restyling-kits"
+                            },
+                            {
+                                "position": ["-125", "13", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"what-we-are-all-about"
+                            },
+                            {
+                                "position": ["-60", "32", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"step-into-polisport-group-history"
+                            }
+
+
+                        ]
+                    },
+                    {
+                        "id":6,
+                        "name": "ENTRANCE-HALL/PF86",
+                        "initialPosition": [1,0.5,-1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "entrance-hall",
+                        "floor": "ground",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["-250", "6", "200"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"welcome-to-polisport-world"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/5", "position": ["250", "-30", "177"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/4", "position": ["11", "-37", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/8", "position": ["-299", "-10", "-1"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-3", "17", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"what-we-are-all-about"
+                            },
+                            {
+                                "position": ["-83", "103", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"step-into-polisport-group-history"
+                            }
+                        ]
+                    },
+                    {
+                        "id":7,
+                        "name": "ENTRANCE-HALL/PF87",
+                        "initialPosition": [1,0,-1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "entrance-hall",
+                        "floor": "ground",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/8", "position": ["-100", "-10", "101"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-11", "86", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"step-into-polisport-group-history"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/6", "position": ["110", "-10", "-29"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":8,
+                        "name": "ENTRANCE-HALL/Pf88",
+                        "initialPosition": [-50,0,100],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "entrance-hall",
+                        "floor": "ground",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/4", "position": ["-250", "-17", "-228"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-133", "-60", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"polisport-restyling-kits"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/9", "position": ["160", "-12", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-250", "17", "-64"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"what-we-are-all-about"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/6", "position": ["-39", "-50", "163"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-9", "38", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"step-into-polisport-group-history"
+                            }
+                        ]
+                    },
+                    {
+                        "id":9,
+                        "name": "ENTRANCE-HALL/Pf89",
+                        "initialPosition": [0,0,-1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "entrance-hall",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/8", "position": ["28", "-70", "-196"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/10", "position": ["-116", "3", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":10,
+                        "name": "ENTRANCE-HALL/PF90",
+                        "initialPosition": [-145,0,85],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "entrance-hall",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/57", "position": ["250", "10", "-20"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/9", "position": ["-37", "-50", "-166"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":11,
+                        "name": "ENTRANCE-HALL/PF91",
+                        "initialPosition": [-145,0,85],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "entrance-hall",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/10", "position": ["-250", "-57", "-1"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/57", "position": ["44", "-4", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":12,
+                        "name": "MATERIAL-INSPECTION/PF1",
+                        "initialPosition": [0.9,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "material-inspection",
+                        "floor": "ground",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["-250", "-25", "-15"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"reception-and-material-inspection"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/13", "position": ["-250", "-19", "177"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":13,
+                        "name": "MATERIAL-INSPECTION/PF2",
+                        "initialPosition": [0,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "material-inspection",
+                        "floor": "ground",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["-250", "-19", "-150"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"reception-and-material-inspection"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/46", "position": ["-250", "4", "189"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/12", "position": ["250", "-9", "-217"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":14,
+                        "name": "OFFICES-HALL/PF77",
+                        "initialPosition": [-1,0,0],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "officies-hall",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["250", "-147", "100"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"open-space-polisport"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/16", "position": ["99", "-16", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/57", "position": ["-118", "-21", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-45", "-5", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"executive-commission"
+                            },
+                            {
+                                "position": ["-250", "-87", "156"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"human-relations-department"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/25", "position": ["250", "-26", "101"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+
+
+                        ]
+                    },
+                    {
+                        "id":15,
+                        "name": "OFFICES-HALL/PF78",
+                        "initialPosition": [-145,0,85],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "officies-hall",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/16", "position": ["19", "-76", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-250", "34", "131"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"coffe-room"
+                            },
+                            {
+                                "position": ["60", "-18", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"executive-commission"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/14", "position": ["-19", "-65", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":16,
+                        "name": "OFFICES-HALL/PF79",
+                        "initialPosition": [0,0.2,-1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "officies-hall",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/14", "position": ["245", "1", "-500"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["24", "5", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72], "infoId":"pedro-araujo-ceo-office"
+                            },
+                            {
+                                "position": ["27", "1", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72], "infoId":"coffe-room"
+                            }
+                        ]
+                    },
+                    {
+                        "id":17,
+                        "name": "OPEN-SPACE/PF60",
+                        "initialPosition": [0,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "open-space",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/18", "position": ["-250", "-17", "-192"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-140", "-40", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"technologies-and-information-systems"
+                            },
+                            {
+                                "position": ["-15", "-27", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"financial-department"
+                            },
+                            {
+                                "position": ["93", "-10", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"quality-department"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/31", "position": ["250", "-16", "-241"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+
+                        ]
+                    },
+                    {
+                        "id":18,
+                        "name": "OPEN-SPACE/PF61",
+                        "initialPosition": [0,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "open-space",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["198", "-121", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"facilities-and-equipment-management"
+                            },
+                            {
+                                "position": ["215", "-37", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"technologies-and-information-systems"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/19", "position": ["-220", "-16", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/17", "position": ["250", "-5", "-168"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":19,
+                        "name": "OPEN-SPACE/PF62",
+                        "initialPosition": [-145,0,85],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "open-space",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["64", "-113", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"audit-and-risk-management"
+                            },
+                            {
+                                "position": ["71", "-28", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"financial-department"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/18", "position": ["250", "-13", "78"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["250", "-52", "-85"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"facilities-and-equipment-management"
+                            },
+                            {
+                                "position": ["222", "-20", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"technologies-and-information-systems"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/33", "position": ["-64", "-5", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/20", "position": ["-250", "-20", "-85"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+
+                        ]
+                    },
+                    {
+                        "id":20,
+                        "name": "OPEN-SPACE/PF63",
+                        "initialPosition": [-145,0,85],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "open-space",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/21", "position": ["-222", "-10", "11"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-8", "-20", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"quality-department"
+                            },
+                            {
+                                "position": ["250", "-26", "-86"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"audit-and-risk-management"
+                            },
+                            {
+                                "position": ["215", "-21", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"financial-department"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/19", "position": ["250", "-12", "-10"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+
+                        ]
+                    },
+                    {
+                        "id":21,
+                        "name": "OPEN-SPACE/PF64",
+                        "initialPosition": [-145,0,85],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "open-space",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["28", "-250", "235"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"s-mud"
+                            },
+                            {
+                                "position": ["92", "-250", "215"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"mud-pro"
+                            },
+                            {
+                                "position": ["33", "-102", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"tool-bottle"
+                            },
+                            {
+                                "position": ["95", "-163", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"light-r"
+                            },
+                            {
+                                "position": ["217", "-189", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"aero-r"
+                            },
+                            {
+                                "position": ["39", "1", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"t550–thermal-bottle"
+                            },
+                            {
+                                "position": ["179", "2", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"r550-r750-and-bottle-cage"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/22", "position": ["-250", "-12", "167"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/20", "position": ["250", "-10", "-74"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-61", "-30", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"quality-department"
+                            }
+                        ]
+                    },
+                    {
+                        "id":22,
+                        "name": "OPEN-SPACE/PF65",
+                        "initialPosition": [-145,0,85],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "open-space",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["56", "-202", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"bobike-exclusive-helmets"
+                            },
+                            {
+                                "position": ["75", "-150", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"bobike-exclusive-maxi"
+                            },
+                            {
+                                "position": ["48", "-77", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"bobike-balance-bike"
+                            },
+                            {
+                                "position": ["-100", "1", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"bobike-kids-bottle"
+                            },
+                            {
+                                "position": ["-28", "-4", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"kids-plus-xs-helmet"
+                            },
+                            {
+                                "position": ["65", "4", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"bobike-city-helmet"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/21", "position": ["250", "-15", "46"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/23", "position": ["-250", "-16", "18"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["236", "-25", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"quality-department"
+                            },
+                            {
+                                "position": ["-156", "-27", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"engineering-department"
+                            }
+                        ]
+                    },
+                    {
+                        "id":23,
+                        "name": "OPEN-SPACE/PF66",
+                        "initialPosition": [1,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "open-space",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["157", "-250", "-177"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"clutch-and-ignition-cover-protector"
+                            },
+                            {
+                                "position": ["219", "-197", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"fortress-skid-plate"
+                            },
+                            {
+                                "position": ["242", "56", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"prooctane-utility-can"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/22", "position": ["-217", "-49", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-250", "-9", "124"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"planning-and-management-control"
+                            },
+                            {
+                                "position": ["-121", "-35", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"engineering-department"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/24", "position": ["250", "-47", "150"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":24,
+                        "name": "OPEN-SPACE/PF67",
+                        "initialPosition": [1,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "open-space",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/23", "position": ["-199", "-57", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/25", "position": ["250", "-34", "180"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-250", "-44", "174"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"engineering-department"
+                            },
+                            {
+                                "position": ["181", "-250", "-159"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"lookos-evo"
+                            },
+                            {
+                                "position": ["250", "-138", "-245"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"armadillo-pipe-guard"
+                            },
+                            {
+                                "position": ["250", "31", "-244"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"the-silencer-protector"
+                            },
+                            {
+                                "position": ["-250", "-23", "72"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"planning-and-management-control"
+                            }
+                        ]
+                    },
+                    {
+                        "id":25,
+                        "name": "OPEN-SPACE/PF68",
+                        "initialPosition": [0,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "open-space",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/26", "position": ["112", "-45", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["22", "-12", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"polisport-move"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/24", "position": ["250", "-23", "10"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [50,50], "hoverSize": [62,62]
+                            },
+                            {
+                                "position": ["250", "-6", "-94"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"environmental-policy"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/27", "position": ["-250", "-20", "-3"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/14", "position": ["-2", "-40", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72], "infoId":"no kuula nao tem redirect"
+                            }
+                        ]
+                    },
+                    {
+                        "id":26,
+                        "name": "OPEN-SPACE/PF69",
+                        "initialPosition": [0,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "open-space",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["155", "-75", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"polisport-move"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/25", "position": ["-250", "-58", "130"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-41", "-22", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"environmental-policy"
+                            }
+                        ]
+                    },
+                    {
+                        "id":27,
+                        "name": "OPEN-SPACE/PF70",
+                        "initialPosition": [1,0,-1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "open-space",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["-46", "-32", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"commercial-and-marketing-department"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/28", "position": ["-250", "-1", "31"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-6", "-227", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"stiftung-warentest-2018"
+                            },
+                            {
+                                "position": ["-95", "-96", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"german-design-award-2015"
+                            },
+                            {
+                                "position": ["59", "-95", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"red-dot-award-2017"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/25", "position": ["250", "-6", "16"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+
+                        ]
+                    },
+                    {
+                        "id":28,
+                        "name": "OPEN-SPACE/PF71",
+                        "initialPosition": [1,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "open-space",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/27", "position": ["169", "-5", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["250", "-31", "-133"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"commercial-and-marketing-department"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/29", "position": ["-250", "-9", "-185"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-221", "-250", "112"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"bubbly-cfs"
+                            },
+                            {
+                                "position": ["-117", "-250", "214"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"groovy-for-carriers"
+                            },
+                            {
+                                "position": ["-250", "-139", "149"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"xxs-baby"
+                            },
+                            {
+                                "position": ["-125", "-115", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"balance-bike"
+                            },
+                            {
+                                "position": ["-250", "-5", "174"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"e-city"
+                            },
+                            {
+                                "position": ["-250", "-11", "246"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"commuter"
+                            }
+                        ]
+                    },
+                    {
+                        "id":29,
+                        "name": "OPEN-SPACE/PF72",
+                        "initialPosition": [1,0,-1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "open-space",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/28", "position": ["250", "-1", "-145"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-250", "-23", "-44"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"supply-chain-department"
+                            },
+                            {
+                                "position": ["99", "-250", "198"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"bobike-go-maxi"
+                            },
+                            {
+                                "position": ["93", "-188", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"bobike-go-s-helmet"
+                            },
+                            {
+                                "position": ["117", "-103", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"bobike-one-maxi"
+                            },
+                            {
+                                "position": ["250", "-116", "199"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"bobike-one-mini"
+                            },
+                            {
+                                "position": ["194", "-15", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"one-mini-plus-windscreen"
+                            },
+                            {
+                                "position": ["-2", "-21", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72] ,  "infoId":"commercial-and-marketing-department"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/30", "position": ["-250", "-6", "222"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":30,
+                        "name": "OPEN-SPACE/PF73",
+                        "initialPosition": [1,0,-0.2],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "open-space",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["-210", "-1", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"polisport-shop-floor"
+                            },
+                            {
+                                "position": ["-250", "-22", "-228"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"supply-chain-department"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/41", "position": ["-210", "-60", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/32", "position": ["-250", "-64", "-224"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/29", "position": ["233", "-24", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":31,
+                        "name": "OPEN-SPACE/PF74",
+                        "initialPosition": [0,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "open-space",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["34", "-47", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"supply-chain-department"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/17", "position": ["-234", "-18", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/32", "position": ["137", "-12", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+
+                        ]
+                    },
+                    {
+                        "id":32,
+                        "name": "OPEN-SPACE/PF75",
+                        "initialPosition": [1,0,0],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "open-space",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["-250", "-59", "-22"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"supply-chain-department"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/31", "position": ["-250", "-67", "28"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/30", "position": ["250", "-62", "66"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+
+                        ]
+                    },
+                    {
+                        "id":33,
+                        "name": "OPEN-SPACE/PF76",
+                        "initialPosition": [0,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "open-space",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/19", "position": ["-207", "-10", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":34,
+                        "name": "POLISPORT-LAB/PL22",
+                        "initialPosition": [1,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polisport-lab",
+                        "floor": "ground",
+                        "videoName": "pano/PL22/VID_20201209_152612_20210222204348_1 compressed.mp4",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/35", "position": ["-250", "-7", "-174"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["206", "8", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"prototyping-room"
+                            },
+                            {
+                                "position": ["17", "-68", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"binder-oven"
+                            },
+                            {
+                                "position": ["-80", "25", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"polisport-lab"
+                            },
+                            {
+                                "position": ["-250", "-106", "-34"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"hydrostatic-pressure-equipment"
+                            },
+                            {
+                                "position": ["-250", "-158", "23"], "rotation": [1.5707,0,3.14],
+                                "type": "video", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"video"
+                            },
+                            {
+                                "position": ["-250", "-2", "43"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"chain-guide-endurance-test"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/43", "position": ["250", "-17", "95"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+
+                        ]
+                    },
+                    {
+                        "id":35,
+                        "name": "POLISPORT-LAB/PL23",
+                        "initialPosition": [-145,0,85],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polisport-lab",
+                        "floor": "ground",
+                        "videoName": "pano/PL23/VID_20201209_152612_20210222204348_1 compressed.mp4",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/34", "position": ["-250", "-01", "44"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/40", "position": ["15", "-22", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/36", "position": ["250", "-3", "14"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-167", "-4", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"prototyping-room"
+                            },
+                            {
+                                "position": ["-77", "-68", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"binder-oven"
+                            },
+                            {
+                                "position": ["85", "-52", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"heavy-metals-measurement"
+                            },
+                            {
+                                "position": ["250", "-64", "172"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"3d-scanner-arm"
+                            },
+                            {
+                                "position": ["250", "8", "-150"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"micro-slip-equipment"
+                            },
+                            {
+                                "position": ["-198", "-248", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "video", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"video"
+                            },
+                            {
+                                "position": ["153", "31", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"holder-resistance-test"
+                            },
+                            {
+                                "position": ["-8", "-184", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"hydrostatic-pressure-equipment"
+                            },
+                            {
+                                "position": ["-198", "-148", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"chain-guide-endurance-test"
+                            }
+                        ]
+                    },
+                    {
+                        "id":36,
+                        "name": "POLISPORT-LAB/PL24",
+                        "initialPosition": [-0.6,0,-0.9],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polisport-lab",
+                        "floor": "ground",
+                        "videoName": "pano/PL24/VID_20201209_151440_20210222202237_1 compressed.mp4",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["-250", "-75", "67"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"3d-scanner-arm"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/35", "position": ["-250", "1", "-105"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-176", "-109", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"hydrostatic-pressure-equipment"
+                            },
+                            {
+                                "position": ["-9", "23", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"holder-resistance-test"
+                            },
+                            {
+                                "position": ["143", "16", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"micro-slip-equipment"
+                            },
+                            {
+                                "position": ["121", "-101", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"vertical-dynamic-test"
+                            },
+                            {
+                                "position": ["48", "-79", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"roll-over-test"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/37", "position": ["-118", "2", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["150", "10", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "video", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":37,
+                        "name": "POLISPORT-LAB/PL25",
+                        "initialPosition": [0,0,-1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polisport-lab",
+                        "floor": "ground",
+                        "videoName": "pano/PL25/VID_20201209_145625_20210222201441_ compressed.mp4",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["-49", "-06", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"lateral-dynamic-test"
+                            },
+                            {
+                                "position": ["250", "-95", "-86"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"vertical-dynamic-test"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/36", "position": ["38", "-1", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-250", "-93", "-93"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"heavy-metals-measurement"
+                            },
+                            {
+                                "position": ["250", "-102", "93"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"roll-over-test"
+                            },
+                            {
+                                "position": ["250", "-231", "-75"], "rotation": [1.5707,0,3.14],
+                                "type": "video", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"video"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/38", "position": ["-47", "-45", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":38,
+                        "name": "POLISPORT-LAB/PL26",
+                        "initialPosition": [0,0.4,-1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polisport-lab",
+                        "floor": "ground",
+                        "videoName": "pano/PL26/VID_20201209_150021_20210222202009_ compressed.mp4",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["211", "-73", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"roll-over-test"
+                            },
+                            {
+                                "position": ["134", "-102", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "video", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"video"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/37", "position": ["-1", "-10", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-19", "-58", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"lateral-dynamic-test"
+                            },
+                          
+                            {
+                                "position": ["-250", "-130", "180"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"motostand-static-and-dynamic-test"
+                            },
+                            {
+                                "position": ["-11", "-250", "167"], "rotation": [1.5707,0,3.14],
+                                "type": "video", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"video"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/39", "position": ["-250", "-14", "-10"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+
+                        ]
+                    },
+                    {
+                        "id":39,
+                        "name": "POLISPORT-LAB/PL27",
+                        "initialPosition": [-145,0,85],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polisport-lab",
+                        "floor": "ground",
+                        "videoName": "pano/PL27/VID_20201209_150606_20210222202038_compressed.mp4",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["-250", "-122", "-92"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"color-measurement"
+                            },
+                            {
+                                "position": ["-250", "-5", "-48"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"verivide-equipment"
+                            },
+                            {
+                                "position": ["-250", "-33", "45"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"solarbox"
+                            },
+                            {
+                                "position": ["-165", "-202", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"motostand-static-and-dynamic-test"
+                            },
+                            {
+                                "position": ["-23", "-181", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "video", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"video"
+                            },
+                            {
+                                "position": ["-6", "-116", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"lateral-dynamic-test"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/38", "position": ["151", "-10", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/40", "position": ["250", "-15", "-116"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":40,
+                        "name": "POLISPORT-LAB/PL28",
+                        "initialPosition": [-0.4,0.1,0.1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polisport-lab",
+                        "floor": "ground",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["215", "-152", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"heavy-metals-measurement"
+                            },
+                            {
+                                "position": ["106", "-128", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"binder-oven"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/39", "position": ["-250", "-21", "-45"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/35", "position": ["250", "-45", "21"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":41,
+                        "name": "POLISPORT-PLASTICS-SHOP-FLOOR/PF3",
+                        "initialPosition": [-1,0,-1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polisport-plastics-shop-floor",
+                        "floor": "ground",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/46", "position": ["193", "-18", "249"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/30", "position": ["-191", "110", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":42,
+                        "name": "POLISPORT-PLASTICS-SHOP-FLOOR/PF4",
+                        "initialPosition": [-1,0,0],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polisport-plastics-shop-floor",
+                        "floor": "ground",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["-165", "106", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"dynamic-warehouse"
+                            },
+                            {
+                                "position": ["250", "42", "225"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"car-baby-seat-assembly-lines"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/46", "position": ["-167", "-23", "148"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/43", "position": ["250", "-4", "48"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polinter/1","position": ["19", "-38", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":43,
+                        "name": "POLISPORT-PLASTICS-SHOP-FLOOR/PF5",
+                        "initialPosition": [-145,0,85],
+                        "initialCompass": [0,0,0],
+                        "videoName": "pano/PF5/VID_20201209_083010_20210222195353_1 compress.mp4",
+                        "countProgress": true,
+                        "mapId": "polisport-plastics-shop-floor",
+                        "floor": "ground",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["220", "-31", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "video", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"video"
+                            },
+                            {
+                                "position": ["250", "78", "240"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"car-baby-seat-assembly-lines"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/42", "position": ["-250", "-7", "229"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/45", "position": ["372", "-7", "-322"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/34", "position": ["-315", "-5", "-356"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":44,
+                        "name": "POLISPORT-PLASTICS-SHOP-FLOOR/PF6",
+                        "initialPosition": [1,0,-1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polisport-plastics-shop-floor",
+                        "floor": "ground",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["-250", "-7", "119"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"individual-assembly-lines"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/50", "position": ["-250", "-10", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/48", "position": ["-249", "-10", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/3", "position": ["250", "-10", "-239"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72], "infoId":"bicycle-warehouse"
+                            }
+
+                        ]
+                    },
+                    {
+                        "id":45,
+                        "name": "POLISPORT-PLASTICS-SHOP-FLOOR/PF8",
+                        "initialPosition": [1,0,0.5],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polisport-plastics-shop-floor",
+                        "floor": "ground",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["-136", "-26", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"baby-seats-assembly-lines"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/56", "position": ["144", "-8", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/43", "position": ["250", "-0", "162"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/47", "position": ["-250", "-13", "-150"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":46,
+                        "name": "POLISPORT-PLASTICS-SHOP-FLOOR/PF9",
+                        "initialPosition": [1,0,-1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polisport-plastics-shop-floor",
+                        "floor": "ground",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["250", "90", "185"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"dynamic-warehouse"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/42", "position": ["30", "8", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/13", "position": ["250", "1", "-108"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/41", "position": ["-134", "-8", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":47,
+                        "name": "POLISPORT-PLASTICS-SHOP-FLOOR/PF10",
+                        "initialPosition": [0,0,-1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polisport-plastics-shop-floor",
+                        "floor": "ground",
+                        "videoName": "pano/PF10/VID_20201211_074419_20210222204826_1 compress.mp4",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["-250", "-64", "-219"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"baby-seats-assembly-lines"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/45", "position": ["120", "3", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/49", "position": ["-112", "-6", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/3", "position": ["-198", "-1", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "video", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":48,
+                        "name": "POLISPORT-PLASTICS-SHOP-FLOOR/PF11",
+                        "initialPosition": [0,0,-1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polisport-plastics-shop-floor",
+                        "floor": "ground",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/52", "position": ["-250", "-32", "-106"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/44", "position": ["-110", "7", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/49", "position": ["108", "-21", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":49,
+                        "name": "POLISPORT-PLASTICS-SHOP-FLOOR/PF14",
+                        "initialPosition": [0.6,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polisport-plastics-shop-floor",
+                        "floor": "ground",
+                        "videoName": "pano/PF14/VID_20201209_100554_20210222200041_1 compress.mp4",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["250", "-5", "102"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"baby-seats-assembly-lines"
+                            },
+                            {
+                                "position": ["8", "-12", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"baby-seats-assembly-lines"
+                            },
+                            {
+                                "position": ["-80", "-12", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "video", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"baby-seats-assembly-lines"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/48", "position": ["-196", "-12", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/47", "position": ["197", "1", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":50,
+                        "name": "PRODUCTION-LINES/PF15",
+                        "initialPosition": [0,0,-1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "production-lines",
+                        "floor": "ground",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["9", "-21", "220"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"individual-assembly-lines"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/51", "position": ["250", "-9", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/44", "position": ["-244", "-4", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":51,
+                        "name": "PRODUCTION-LINES/PF16",
+                        "initialPosition": [1,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "production-lines",
+                        "floor": "ground",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["-146", "-1", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"individual-assembly-lines"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/50", "position": ["61", "-24", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/52", "position": ["-250", "-6", "-56"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":52,
+                        "name": "PRODUCTION-LINES/PF17",
+                        "initialPosition": [0.9,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "production-lines",
+                        "floor": "ground",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/51", "position": ["250", "-9", "205"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/48", "position": ["226", "-5", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/53", "position": ["-250", "-24", "-231"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":53,
+                        "name": "PRODUCTION-LINES/PF18",
+                        "initialPosition": [0.3,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "production-lines",
+                        "floor": "ground",
+                        "videoName": "pano/PF18/VID_20201209_101649_20210222202437_1 compress.mp4",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["146", "-139", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "video", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"video"
+                            },
+                            {
+                                "position": ["250", "-33", "-58"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"mizzo"
+                            },
+                            {
+                                "position": ["250", "28", "-185"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"mattec"
+                            },
+                            {
+                                "position": ["109", "-2", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"baby-seats-assembly-lines"
+                            },
+                            {
+                                "position": ["-50", "-140", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"multipurpose-matrix"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/52", "position": ["250", "5", "93"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/55", "position": ["-250", "-14", "-116"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":54,
+                        "name": "PRODUCTION-LINES/PF19",
+                        "initialPosition": [0,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "production-lines",
+                        "floor": "ground",
+                        "videoName": "pano/PF19/VID_20201209_083939_20210222200553_1 compress.mp4",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["181", "-4", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"car-baby-seat-assembly-lines"
+                            },
+                            {
+                                "position": ["-100", "-0", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "video", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"car-baby-seat-assembly-lines"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/56", "position": ["118", "-28", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":55,
+                        "name": "PRODUCTION-LINES/PF20",
+                        "initialPosition": [1,0,0],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "production-lines",
+                        "floor": "ground",
+                        "videoName": "pano/PF20/VID_20201211_073324_20210222210501_1 compress.mp4",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["-154", "-0", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"baby-seats-assembly-lines"
+                            },
+                            {
+                                "position": ["-154", "-50", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "video", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"baby-seats-assembly-lines"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/53", "position": ["250", "-07", "-146"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/56", "position": ["-250", "-13", "177"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":56,
+                        "name": "PRODUCTION-LINES/PF21",
+                        "initialPosition": [-0.1,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "production-lines",
+                        "floor": "ground",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["250", "5", "-76    "], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"baby-seats-assembly-lines"
+                            },
+                            {
+                                "position": ["-102", "-0", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"car-baby-seat-assembly-lines"
+                            },
+                            {
+                                "to": "/vr/factory-polisport/55", "position": ["250", "-15", "199"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/45", "position": ["246", "-1", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/54", "position": ["-250", "-33", "-247"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":57,
+                        "name": "RECEPTION/PF80",
+                        "initialPosition": [0,0,-1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "reception",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/10", "position": ["-250", "-110", "-112"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/14", "position": ["-113", "-37", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/factory-polisport/58", "position": ["250", "-26", "-30"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-250", "-22", "-98"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"bicycle-division"
+                            },
+                            {
+                                "position": ["-167", "-13", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"motorcycle-division"
+                            }
+
+
+
+                        ]
+                    },
+                    {
+                        "id":58,
+                        "name": "RECEPTION/PF81",
+                        "initialPosition": [-145,0,85],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "reception",
+                        "floor": "1st-floor",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "to": "/vr/factory-polisport/57", "position": ["-34", "-25", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["250", "23", "222"], "rotation": [1.5707,0,3.14],
+                                "type": "we-are-global", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"we-are-global"
+                            },
+                            {
+                                "position": ["250", "-8", "-238"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"motorcycle-division"
+                            },
+                            {
+                                "position": ["64", "-6", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],  "infoId":"bicycle-division"
+                            }
+
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "motorcycle-logistics-center",
+                "slug": "motorcycle-logistics-center",
+                "act": "3",
+                "panoramas": [
+                    {
+                        "id":1,
+                        "name": "ENTRANCE/PF48",
+                        "initialPosition": [1,0,-1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "entrance",
+                        "floor": "ground",
+                        "factory": "clm",
+                        "hotspots": [
+                            {
+                                "position": ["-250", "58", "110"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],"infoId":"off-road-logistics-center"
+                            },
+                            {
+                                "to": "/vr/motorcycle-logistics-center/2", "position": ["-80", "34", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "drone", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/motorcycle-logistics-center/4", "position": ["-250", "-2", "-84"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/motorcycle-logistics-center/2", "position": ["-70", "-3", "230"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":2,
+                        "name": "PRODUCTION/PF49",
+                        "initialPosition": [1,0,0],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "production",
+                        "floor": "ground",
+                        "factory": "clm",
+                        "hotspots": [
+                            {
+                                "position": ["-250", "-19", "-4"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],"infoId":"assembly-lines"
+                            },
+                            {
+                                "to": "/vr/motorcycle-logistics-center/3", "position": ["-250", "-9", "-62"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/motorcycle-logistics-center/1", "position": ["250", "-2", "45"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":3,
+                        "name": "PRODUCTION/PF50",
+                        "initialPosition": [1,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "production",
+                        "floor": "ground",
+                        "factory": "clm",
+                        "hotspots": [
+                            {
+                                "position": ["-250", "-84", "-216"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],"infoId":"assembly-lines"
+                            },
+                            {
+                                "to": "/vr/motorcycle-logistics-center/2", "position": ["-250", "-11", "-7"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":4,
+                        "name": "STORAGE/PF51",
+                        "initialPosition": [1,0,0.3],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "storage",
+                        "floor": "ground",
+                        "factory": "clm",
+                        "hotspots": [
+                            {
+                                "to": "/vr/motorcycle-logistics-center/5", "position": ["-250", "-7", "-48"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/motorcycle-logistics-center/1", "position": ["58", "-11", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/motorcycle-logistics-center/12", "position": ["247", "5", "55"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["250", "47", "55"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],"infoId":"dedicated-warehouse"
+                            }
+                        ]
+                    },
+                    {
+                        "id":5,
+                        "name": "STORAGE/PF52",
+                        "initialPosition": [0,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "storage",
+                        "floor": "ground",
+                        "factory": "clm",
+                        "hotspots": [
+                            {
+                                "to": "/vr/motorcycle-logistics-center/4", "position": ["-250", "-17", "2"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/motorcycle-logistics-center/6", "position": ["13", "-24", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":6,
+                        "name": "STORAGE/PF53",
+                        "initialPosition": [1,0,-1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "storage",
+                        "floor": "ground",
+                        "factory": "clm",
+                        "hotspots": [
+                            {
+                                "to": "/vr/motorcycle-logistics-center/5", "position": ["194", "1", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/motorcycle-logistics-center/7", "position": ["-302", "-46", "395"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":7,
+                        "name": "STORAGE/PF54",
+                        "initialPosition": [-145,0,85],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "storage",
+                        "floor": "ground",
+                        "factory": "clm",
+                        "hotspots": [
+                            {
+                                "to": "/vr/motorcycle-logistics-center/8", "position": ["250", "-18 ", "-78"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "position": ["-80", "35", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72],"infoId":"motorcycle-logistic-center"
+                            },
+                            {
+                                "to": "/vr/motorcycle-logistics-center/6", "position": ["-250", "-18 ", "78"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":8,
+                        "name": "STORAGE/PF55",
+                        "initialPosition": [-145,0,85],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "storage",
+                        "floor": "ground",
+                        "factory": "clm",
+                        "hotspots": [
+                            {
+                                "to": "/vr/motorcycle-logistics-center/9", "position": ["250", "-7", "-63"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/motorcycle-logistics-center/7", "position": ["-250", "-11", "121"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":9,
+                        "name": "STORAGE/PF56",
+                        "initialPosition": [0,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "storage",
+                        "floor": "ground",
+                        "factory": "clm",
+                        "hotspots": [
+                            {
+                                "to": "/vr/motorcycle-logistics-center/8", "position": ["-30", "-35", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/motorcycle-logistics-center/10", "position": ["42", "-23", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            },
+                            {
+                                "to": "/vr/motorcycle-logistics-center/11", "position": ["-250", "-13", "-20"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":10,
+                        "name": "STORAGE/PF57",
+                        "initialPosition": [0.2,0,-1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "storage",
+                        "floor": "ground",
+                        "factory": "clm",
+                        "hotspots": [
+                            {
+                                "to": "/vr/motorcycle-logistics-center/9", "position": ["151", "-01", "249"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":11,
+                        "name": "STORAGE/PF58",
+                        "initialPosition": [1,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "storage",
+                        "floor": "ground",
+                        "factory": "clm",
+                        "hotspots": [
+                            {
+                                "to": "/vr/motorcycle-logistics-center/9", "position": ["248", "1", "250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    },
+                    {
+                        "id":12,
+                        "name": "STORAGE/PF59",
+                        "initialPosition": [0,0,-1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "storage",
+                        "floor": "ground",
+                        "factory": "clm",
+                        "hotspots": [
+                            {
+                                "to": "/vr/motorcycle-logistics-center/4", "position": ["-15", "-14", "-250"], "rotation": [1.5707,0,3.14],
+                                "type": "panorama-spot", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "polisport-off-road",
+                "slug": "polisport-off-road",
+                "act": "4",
+                "panoramas": [
+                    {
+                        "id":1,
+                        "name":1,
+                        "initialPosition": [-145,0,85],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "polisport-off-road",
+                        "factory": "polisport",
+                        "hotspots": [
+                            {
+                                "position": ["-250", "58", "110"], "rotation": [1.5707,0,3.14],
+                                "type": "info", "hover": true, "size": [60,60], "hoverSize": [72,72]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "drone",
+                "slug": "drone",
+                "act": "6",
+                "panoramas": [
+                    {
+                        "id":1,
+                        "name": null,
+                        "videoName": "drone polisport compressed.mp4",
+                        "videoFirst": true,
+                        "initialPosition": [-1,0,0],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "",
+                        "isCubed": false,
+                        "redirectTo": "/vr/factory-polisport/5",
+                        "hotspots": []
+                    },
+                    {
+                        "id":2,
+                        "name": null,
+                        "videoName": "drone polinter compressed.mp4",
+                        "videoFirst": true,
+                        "initialPosition": [-145,0,85],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "",
+                        "isCubed": false,
+                        "redirectTo": "/vr/factory-polinter/6",
+                        "hotspots": []
+                    },
+                    {
+                        "id":3,
+                        "name": null,
+                        "videoName": "drone motorcycle compressed.mp4",
+                        "videoFirst": true,
+                        "initialPosition": [1,0,1],
+                        "initialCompass": [0,0,0],
+                        "countProgress": true,
+                        "mapId": "",
+                        "isCubed": false,
+                        "redirectTo": "/vr/motorcycle-logistics-center/1",
+                        "hotspots": []
+                    }
+                ]
+            }
+        ]
+    }
+]

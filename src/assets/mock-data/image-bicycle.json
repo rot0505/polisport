@@ -1,0 +1,62 @@
+[
+    {
+        "id": "commuter",
+        "txt": "products.commuter",
+        "img": "commuter.jpg",
+        "model": "commuter.glb"
+    },
+    {
+        "id": "baloonsHelmet",
+        "txt": "products.baloons-helmet",
+        "img": "baloons-helmet.jpg",
+        "model": "baloons-helmet.glb"
+    },
+    {
+        "id": "guppyMini",
+        "txt": "products.guppy-mini",
+        "img": "guppy-mini.jpg",
+        "model": "guppy-mini.glb"
+    },
+    {
+        "id": "groovyCfs",
+        "txt": "products.groovy-cfs",
+        "img": "groovy-cfs.jpg",
+        "model": "groovy-cfs.glb"
+    },
+    {
+        "id": "lightPro",
+        "txt": "products.light-pro",
+        "img": "light-pro.jpg",
+        "model": "light-pro.glb"
+    },
+    {
+        "id": "t500",
+        "txt": "products.t500",
+        "img": "t500.jpg",
+        "model": "t500.glb"
+    },
+    {
+        "id": "bundleKit",
+        "txt": "products.bundle-kit",
+        "img": "bundle-kit.jpg",
+        "model": "t500.glb"
+    },
+    {
+        "id": "vtrailer",
+        "txt": "products.trailer",
+        "img": "trailer.jpg",
+        "model": "trailer.glb"
+    },
+    {
+        "id": "balanceBike",
+        "txt": "products.balance-bike",
+        "img": "balance-bike.jpg",
+        "model": "balance-bike.glb"
+    },
+    {
+        "id": "mudPro",
+        "txt": "products.mud-pro",
+        "img": "mud-pro.jpg",
+        "model": "mud-pro.glb"
+    }
+]

@@ -1,0 +1,1004 @@
+[
+    {
+        "id": "welcome-to-polisport-world",
+        "title": "hotspot.title.welcome-to-polisport-world",
+        "subtitle": null,
+        "description": "hotspot.description.welcome-to-polisport-world",
+        "audio": "001",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "what-we-are-all-about",
+        "title": "hotspot.title.what-we-are-all-about",
+        "subtitle": null,
+        "description": "hotspot.description.what-we-are-all-about",
+        "audio": "002",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "we-are-global",
+        "title": "hotspot.title.we-are-global",
+        "subtitle": null,
+        "description": "hotspot.description.we-are-global",
+        "audio": "034",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "step-into-polisport-group-history",
+        "title": "hotspot.title.step-into-polisport-group-history",
+        "subtitle": null,
+        "description": "hotspot.description.step-into-polisport-group-history",
+        "audio": "History",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "polisport-restyling-kits",
+        "title": "hotspot.title.polisport-restyling-kits",
+        "subtitle": null,
+        "description": "hotspot.description.polisport-restyling-kits",
+        "audio": "003",
+        "image": null,
+        "video": "Kawasaki-KX-125250-20032008-Restyling-Kit-EMBRACE-THE-CHANGE_1080p_1.mp4",
+        "knowMore": "https://www.polisport.com/en/off-road/restyling-kits_670-541.html"
+    },
+    {
+        "id": "bicycle-division",
+        "title": "hotspot.title.bicycle-division",
+        "subtitle": null,
+        "description": "hotspot.description.bicycle-division",
+        "audio": "032",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "motorcycle-division",
+        "title": "hotspot.title.motorcycle-division",
+        "subtitle": null,
+        "description": "hotspot.description.motorcycle-division",
+        "audio": "033",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "human-relations-department",
+        "title": "hotspot.title.human-relations-department",
+        "subtitle": null,
+        "description": "hotspot.description.human-relations-department",
+        "audio": "035",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "executive-commission",
+        "title": "hotspot.title.executive-commission",
+        "subtitle": null,
+        "description": "hotspot.description.executive-commission",
+        "audio": "036",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "coffe-room",
+        "title": "hotspot.title.coffe-room",
+        "subtitle": null,
+        "description": "hotspot.description.coffe-room",
+        "audio": "037",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "pedro-araujo-ceo-office",
+        "title": "hotspot.title.pedro-araujo-ceo-office",
+        "subtitle": null,
+        "description": "hotspot.description.pedro-araujo-ceo-office",
+        "audio": "038",
+        "image": "SR_PEDRO.jpg",
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "open-space-polisport",
+        "title": "hotspot.title.open-space-polisport",
+        "subtitle": null,
+        "description": "hotspot.description.open-space-polisport",
+        "audio": "039",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "polisport-move",
+        "title": "hotspot.title.polisport-move",
+        "subtitle": null,
+        "description": "hotspot.description.polisport-move",
+        "audio": "041",
+        "image": null,
+        "video": "Polisport Trailer - For Biking and Strolling.mp4",
+        "knowMore": null
+    },
+    {
+        "id": "environmental-policy",
+        "title": "hotspot.title.environmental-policy",
+        "subtitle": null,
+        "description": "hotspot.description.environmental-policy",
+        "audio": "040",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "engineering-department",
+        "title": "hotspot.title.engineering-department",
+        "subtitle": null,
+        "description": "hotspot.description.engineering-department",
+        "audio": "042",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "planning-and-management-control",
+        "title": "hotspot.title.planning-and-management-control",
+        "subtitle": null,
+        "description": "hotspot.description.planning-and-management-control",
+        "audio": "048",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "the-silencer-protector",
+        "title": "hotspot.title.the-silencer-protecto",
+        "subtitle": null,
+        "description": "hotspot.description.the-silencer-protecto",
+        "audio": "054",
+        "image": null,
+        "video": "Polisport-Silencer-Protector_1920x1080.mp4",
+        "knowMore": "https://www.polisport.com/en/off-road/performance-parts-and-accessories/performance-parts_578-541.html?ft=c3ViY2F0ZWdvcmlhfHw5Mw=="
+    },
+    {
+        "id": "armadillo-pipe-guard",
+        "title": "hotspot.title.armadillo-pipe-guard",
+        "subtitle": null,
+        "description": "hotspot.description.armadillo-pipe-guard",
+        "audio": "056",
+        "image": null,
+        "video": "Armadillo.mp4",
+        "knowMore": "https://www.polisport.com/en/off-road/performance-parts-and-accessories/performance-parts/armadillo-2-strokes-pipe-guard-orange-ktm_p3946.html?id=578&cat=541&pc=1"
+    },
+    {
+        "id": "lookos-evo",
+        "title": "hotspot.title.lookos-evo",
+        "subtitle": null,
+        "description": "hotspot.description.lookos-evo",
+        "audio": "058",
+        "image": null,
+        "video": "LOOKOS_EVO-A_NEW_HEADLIGHT_GENERATION_1920x1080px.mp4",
+        "knowMore": "https://www.polisport.com/en/off-road/headlights/headlight/lookos-evo-headlight-red-and-black-with-battery_p5005.html?id=672&cat=541&pc=1"
+    },
+    {
+        "id": "prooctane-utility-can",
+        "title": "hotspot.title.prooctane-utility-can",
+        "subtitle": null,
+        "description": "hotspot.description.prooctane-utility-can",
+        "audio": "059",
+        "image": null,
+        "video": "PROOCTANE JERRY CAN_EN.mp4",
+        "knowMore": "https://www.polisport.com/en/off-road/performance-parts-and-accessories/track-accessories/prooctane-20l-fuel-tank-with-fill-hose_p3952.html?id=577&cat=541&pc=1"
+    },
+    {
+        "id": "fortress-skid-plate",
+        "title": "hotspot.title.fortress-skid-plate",
+        "subtitle": null,
+        "description": "hotspot.description.fortress-skid-plate",
+        "audio": "055",
+        "image": null,
+        "video": "FORTRESS_Skid_Plate.mp4",
+        "knowMore": "https://www.polisport.com/en/off-road/performance-parts-and-accessories/performance-parts_578-541.html?ft=c3ViY2F0ZWdvcmlhfHw1N1w1OA=="
+    },
+    {
+        "id": "clutch-and-ignition-cover-protector",
+        "title": "hotspot.title.clutch-and-ignition-cover-protector",
+        "subtitle": null,
+        "description": "hotspot.description.clutch-and-ignition-cover-protector",
+        "audio": "057",
+        "image": null,
+        "video": "Clutch 2 videos juntos.mp4",
+        "knowMore": "https://www.polisport.com/en/off-road/performance-parts-and-accessories/performance-parts_578-541.html?ft=c3ViY2F0ZWdvcmlhfHw5Mg%3D%3D"
+    },
+    {
+        "id": "quality-department",
+        "title": "hotspot.title.quality-department",
+        "subtitle": null,
+        "description": "hotspot.description.quality-department",
+        "audio": "044",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "bobike-city-helmet",
+        "title": "hotspot.title.bobike-city-helmet",
+        "subtitle": null,
+        "description": "hotspot.description.bobike-city-helmet",
+        "audio": "075",
+        "image": "Bobike+city.jpg",
+        "video": null,
+        "knowMore": "https://bobike.com/en/product/detail/bobike-city-helmet"
+    },
+    {
+        "id": "kids-plus-xs-helmet",
+        "title": "hotspot.title.kids-plus-xs-helmet",
+        "subtitle": null,
+        "description": "hotspot.description.kids-plus-xs-helmet",
+        "audio": "071",
+        "image": [
+            "KIDS+PLUS+XS.jpg"
+        ],
+        "video": null,
+        "knowMore": "https://bobike.com/en/product/detail/kids-plus-xs-helmet"
+    },
+    {
+        "id": "bobike-kids-bottle",
+        "title": "hotspot.title.bobike-kids-bottle",
+        "subtitle": null,
+        "description": "hotspot.description.bobike-kids-bottle",
+        "audio": "072",
+        "image": [
+            "kids+BOTTLE.jpg"
+        ],
+        "video": null,
+        "knowMore": "https://bobike.com/en/product/detail/kids-bottle"
+    },
+    {
+        "id": "bobike-balance-bike",
+        "title": "hotspot.title.bobike-balance-bike",
+        "subtitle": null,
+        "description": "hotspot.description.bobike-balance-bike",
+        "audio": "073",
+        "image": [
+            "bALANCE+bIKE.jpg"
+        ],
+        "video": null,
+        "knowMore": "https://bobike.com/en/product/detail/bobike-balance-bike"
+    },
+    {
+        "id": "bobike-exclusive-maxi",
+        "title": "hotspot.title.bobike-exclusive-maxi",
+        "subtitle": null,
+        "description": "hotspot.description.bobike-exclusive-maxi",
+        "audio": "076",
+        "image": null,
+        "video": "Go explore with Bobike.mp4",
+        "knowMore": "https://www.polisport.com/en/stiftung-warentest-vergibt-ein-gut-fur-bilby-und-guppy_585.html?idn=236"
+    },
+    {
+        "id": "bobike-exclusive-helmets",
+        "title": "hotspot.title.bobike-exclusive-helmets",
+        "subtitle": null,
+        "description": "hotspot.description.bobike-exclusive-helmets",
+        "audio": "074",
+        "image": [
+            "EXCLUSIVE+HELMETS.jpg"
+        ],
+        "video": null,
+        "knowMore": "https://bobike.com/en/product/detail/exclusive-helmets"
+    },
+    {
+        "id": "r550-r750-and-bottle-cage",
+        "title": "hotspot.title.r550-r750-and-bottle-cage",
+        "subtitle": null,
+        "description": "hotspot.description.r550-r750-and-bottle-cage",
+        "audio": "077",
+        "image": null,
+        "video": "R550 2 videos juntos.mp4",
+        "knowMore": "https://www.polisport.com/en/bicycle/bottles/screw-on-bottles/screw-on-bottle-r550-white-550ml_p4136.html?id=593&cat=582&pc=1"
+    },
+    {
+        "id": "t550–thermal-bottle",
+        "title": "hotspot.title.t550–thermal-bottle",
+        "subtitle": null,
+        "description": "hotspot.description.t550–thermal-bottle",
+        "audio": "078",
+        "image": null,
+        "video": "POLISPORT_T500.mp4",
+        "knowMore": "https://www.polisport.com/pt/bicicleta/bidons/bidons-termicos/t500-bidon-termico-500ml-preto-e-verde-lima_p4755.html?id=687&cat=582&pc=1"
+    },
+    {
+        "id": "aero-r",
+        "title": "hotspot.title.aero-r",
+        "subtitle": null,
+        "description": "hotspot.description.aero-r",
+        "audio": "079",
+        "image": null,
+        "video": "Polisport_AERO_ENG.mp4",
+        "knowMore": "https://www.polisport.com/en/bicycle/helmets/adult/aero-r-road-helmet-red-and-white-m-size_p511.html?id=595&cat=582&pc=1"
+    },
+    {
+        "id": "light-r",
+        "title": "hotspot.title.light-r",
+        "subtitle": null,
+        "description": "hotspot.description.light-r",
+        "audio": "080",
+        "image": "8742200003.jpg",
+        "video": null,
+        "knowMore": "https://www.polisport.com/en/bicycle/helmets/adult/light-pro-cycling-helmet-for-road-use-white-m-size_p1016.html?id=595&cat=582&pc=1"
+    },
+    {
+        "id": "tool-bottle",
+        "title": "hotspot.title.tool-bottle",
+        "subtitle": null,
+        "description": "hotspot.description.tool-bottle",
+        "audio": "081",
+        "image": "8646200002.jpg",
+        "video": null,
+        "knowMore": "https://www.polisport.com/en/bicycle/bottles/accessories/tool-bottle-white-and-black_p4121.html?id=593&cat=582&pc=1"
+    },
+    {
+        "id": "mud-pro",
+        "title": "hotspot.title.mud-pro",
+        "subtitle": null,
+        "description": "hotspot.description.mud-pro",
+        "audio": "082",
+        "image": null,
+        "video": "MUD-PRO_TRAS_V4.mp4",
+        "knowMore": "https://www.polisport.com/en/bicycle/mudguards/front/mud-pro-front-fender-for-mtb_p4028.html?id=596&cat=582&pc=1"
+    },
+    {
+        "id": "s-mud",
+        "title": "hotspot.title.s-mud",
+        "subtitle": null,
+        "description": "hotspot.description.s-mud",
+        "audio": "083",
+        "image": null,
+        "video": "Polisport_S_MUD.mp4",
+        "knowMore": "https://www.polisport.com/en/bicycle/mudguards/rear/s-mud-rear-bicycle-mudguard-for-saddle-rails-short-version_p4037.html?id=596&cat=582&pc=1"
+    },
+    {
+        "id": "financial-department",
+        "title": "hotspot.title.financial-department",
+        "subtitle": null,
+        "description": "hotspot.description.financial-department",
+        "audio": "045",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "audit-and-risk-management",
+        "title": "hotspot.title.audit-and-risk-management",
+        "subtitle": null,
+        "description": "hotspot.description.audit-and-risk-management",
+        "audio": "043",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "technologies-and-information-systems",
+        "title": "hotspot.title.technologies-and-information-systems",
+        "subtitle": null,
+        "description": "hotspot.description.technologies-and-information-systems",
+        "audio": "046",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "facilities-and-equipment-management",
+        "title": "hotspot.title.facilities-and-equipment-management",
+        "subtitle": null,
+        "description": "hotspot.description.facilities-and-equipment-management",
+        "audio": "047",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "supply-chain-department",
+        "title": "hotspot.title.supply-chain-department",
+        "subtitle": null,
+        "description": "hotspot.description.supply-chain-department",
+        "audio": "050",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "commercial-and-marketing-department",
+        "title": "hotspot.title.commercial-and-marketing-department",
+        "subtitle": null,
+        "description": "hotspot.description.commercial-and-marketing-department",
+        "audio": "049",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "one-mini-plus-windscreen",
+        "title": "hotspot.title.one-mini-plus-windscreen",
+        "subtitle": null,
+        "description": "hotspot.description.one-mini-plus-windscreen",
+        "audio": "067",
+        "image": "8015500008_1.jpg",
+        "video": null,
+        "knowMore": "https://bobike.com/en/product/detail/one-windscreen-1"
+    },
+    {
+        "id": "bobike-one-mini",
+        "title": "hotspot.title.bobike-one-mini",
+        "subtitle": null,
+        "description": "hotspot.description.bobike-one-mini",
+        "audio": "066",
+        "image": null,
+        "video": "Veilig op de fiets met Bobike.mp4",
+        "knowMore": "https://bobike.com/en/product/detail/bobike-one-mini-1"
+    },
+    {
+        "id": "bobike-one-maxi",
+        "title": "hotspot.title.bobike-one-maxi",
+        "subtitle": null,
+        "description": "hotspot.description.bobike-one-maxi",
+        "audio": "068",
+        "image": null,
+        "video": "bobike-one-maxi.mp4",
+        "knowMore": "https://bobike.com/en/product/detail/one-maxi"
+    },
+    {
+        "id": "bobike-go-s-helmet",
+        "title": "hotspot.title.bobike-go-s-helmet",
+        "subtitle": null,
+        "description": "hotspot.description.bobike-go-s-helmet",
+        "audio": "070",
+        "image": "8740300036.png",
+        "video": null,
+        "knowMore": "https://bobike.com/en/product/detail/bobike-go-helmets"
+    },
+    {
+        "id": "bobike-go-maxi",
+        "title": "hotspot.title.bobike-go-maxi",
+        "subtitle": null,
+        "description": "hotspot.description.bobike-go-maxi",
+        "audio": "069",
+        "image": null,
+        "video": "bobike-go-maxi.mp4",
+        "knowMore": "https://bobike.com/en/product/detail/bobike-go"
+    },
+    {
+        "id": "commuter",
+        "title": "hotspot.title.commuter",
+        "subtitle": null,
+        "description": "hotspot.description.commuter",
+        "audio": "060",
+        "image": "8740700003.jpg",
+        "video": null,
+        "knowMore": "https://www.polisport.com/en/bicycle/helmets/adult/commuter-urban-helmet-with-rear-led-light-white-and-grey-m-size_p562.html?id=36&cat=0&pc=1"
+    },
+    {
+        "id": "e-city",
+        "title": "hotspot.title.e-city",
+        "subtitle": null,
+        "description": "hotspot.description.e-city",
+        "audio": "061",
+        "image": "8741200003.jpg",
+        "video": null,
+        "knowMore": "https://www.polisport.com/en/bicycle/helmets/adult/e-city-city-helmet-for-e-bikes-black-and-dark-grey-m-size_p552.html?id=36&cat=0&pc=1"
+    },
+    {
+        "id": "balance-bike",
+        "title": "hotspot.title.balance-bike",
+        "subtitle": null,
+        "description": "hotspot.description.balance-bike",
+        "audio": "062",
+        "image": null,
+        "video": "BALANCE_BIKE.mp4",
+        "knowMore": "https://www.polisport.com/en/bicycle/transport-and-mobility/balance-bike/balance-bike-learning-bicycle-for-kids-cream-and-mint_p4068.html?id=36&cat=0&pc=1"
+    },
+    {
+        "id": "xxs-baby",
+        "title": "hotspot.title.xxs-baby",
+        "subtitle": null,
+        "description": "hotspot.description.xxs-baby",
+        "audio": "063",
+        "image": [
+            "8740200048.jpg"
+        ],
+        "video": null,
+        "knowMore": "https://www.polisport.com/en/bicycle/helmets/kids/xxs-baby-bicycle-helmet-for-babies-white-and-pink_p1064.html?id=595&cat=582&pc=1"
+    },
+    {
+        "id": "groovy-for-carriers",
+        "title": "hotspot.title.groovy-for-carriers",
+        "subtitle": null,
+        "description": "hotspot.description.groovy-for-carriers",
+        "audio": "064",
+        "image": null,
+        "video": "GROOVY_CFS.mp4",
+        "knowMore": "https://www.polisport.com/en/bicycle/child-bike-seats/carrier-mounting-system/groovy-cfs-rear-child-bicycle-seat-caramel-brown-and-black-for-luggage-carriers_p4725.html?id=36&cat=0&pc=1"
+    },
+    {
+        "id": "bubbly-cfs",
+        "title": "hotspot.title.bubbly-cfs",
+        "subtitle": null,
+        "description": "hotspot.description.bubbly-cfs",
+        "audio": "065",
+        "image": null,
+        "video": "Bubbly Restyling.mp4",
+        "knowMore": "https://www.polisport.com/en/bicycle/child-bike-seats/carrier-mounting-system/bubbly-maxi-plus-cfs-child-bicycle-seat-gold-with-carrier-mounting-system_p4668.html?id=36&cat=0&pc=1"
+    },
+    {
+        "id": "red-dot-award-2017",
+        "title": "hotspot.title.red-dot-award-2017",
+        "subtitle": null,
+        "description": "hotspot.description.red-dot-award-2017",
+        "audio": "051",
+        "image": null,
+        "video": "40-01843.mp4",
+        "knowMore": "https://www.polisport.com/en/off-road/performance-parts-and-accessories/foldable-accessories/foldable-lift-bike-stand-blue_p3161.html?id=576&cat=541&pc=1"
+    },
+    {
+        "id": "german-design-award-2015",
+        "title": "hotspot.title.german-design-award-2015",
+        "subtitle": null,
+        "description": "hotspot.description.german-design-award-2015",
+        "audio": "052",
+        "image": null,
+        "video": "Guppy Junior - Mounting Instructions.mp4",
+        "knowMore": null
+    },
+    {
+        "id": "stiftung-warentest-2018",
+        "title": "hotspot.title.stiftung-warentest-2018",
+        "subtitle": null,
+        "description": "hotspot.description.stiftung-warentest-2018",
+        "audio": "053",
+        "image": [
+            "stiftung-warentest-2018.jpg"
+        ],
+        "video": null,
+        "knowMore": "https://www.polisport.com/en/stiftung-warentest-vergibt-ein-gut-fur-bilby-und-guppy_585.html?idn=236"
+    },
+    {
+        "id": "polisport-shop-floor",
+        "title": "hotspot.title.polisport-shop-floor",
+        "subtitle": null,
+        "description": "hotspot.description.polisport-shop-floor",
+        "audio": "084",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "reception-and-material-inspection",
+        "title": "hotspot.title.reception-and-material-inspection",
+        "subtitle": null,
+        "description": "hotspot.description.reception-and-material-inspection",
+        "audio": "085",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "dynamic-warehouse",
+        "title": "hotspot.title.dynamic-warehouse",
+        "subtitle": null,
+        "description": "hotspot.description.dynamic-warehouse",
+        "audio": "110",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "car-baby-seat-assembly-lines",
+        "title": "hotspot.title.car-baby-seat-assembly-lines",
+        "subtitle": null,
+        "description": "hotspot.description.car-baby-seat-assembly-lines",
+        "audio": "086",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "prototyping-room",
+        "title": "hotspot.title.prototyping-room",
+        "subtitle": null,
+        "description": "hotspot.description.prototyping-room",
+        "audio": "094",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "binder-oven",
+        "title": "hotspot.title.binder-oven",
+        "subtitle": null,
+        "description": "hotspot.description.binder-oven",
+        "audio": "100",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "chain-guide-endurance-test",
+        "title": "hotspot.title.chain-guide-endurance-test",
+        "subtitle": null,
+        "description": "hotspot.description.chain-guide-endurance-test",
+        "audio": "101",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "hydrostatic-pressure-equipment",
+        "title": "hotspot.title.hydrostatic-pressure-equipment",
+        "subtitle": null,
+        "description": "hotspot.description.hydrostatic-pressure-equipment",
+        "audio": "102",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "polisport-lab",
+        "title": "hotspot.title.polisport-lab",
+        "subtitle": null,
+        "description": "hotspot.description.polisport-lab",
+        "audio": "093",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "holder-resistance-test",
+        "title": "hotspot.title.holder-resistance-test",
+        "subtitle": null,
+        "description": "hotspot.description.holder-resistance-test",
+        "audio": "99",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "micro-slip-equipment",
+        "title": "hotspot.title.micro-slip-equipment",
+        "subtitle": null,
+        "description": "hotspot.description.micro-slip-equipment",
+        "audio": "108",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "3d-scanner-arm",
+        "title": "hotspot.title.3d-scanner-arm",
+        "subtitle": null,
+        "description": "hotspot.description.3d-scanner-arm",
+        "audio": "109",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "heavy-metals-measurement",
+        "title": "hotspot.title.heavy-metals-measurement",
+        "subtitle": null,
+        "description": "hotspot.description.heavy-metals-measurement",
+        "audio": "104",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "vertical-dynamic-test",
+        "title": "hotspot.title.vertical-dynamic-test",
+        "subtitle": null,
+        "description": "hotspot.description.vertical-dynamic-test",
+        "audio": "097",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "roll-over-test",
+        "title": "hotspot.title.roll-over-test",
+        "subtitle": null,
+        "description": "hotspot.description.roll-over-test",
+        "audio": "098",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "lateral-dynamic-test",
+        "title": "hotspot.title.lateral-dynamic-test",
+        "subtitle": null,
+        "description": "hotspot.description.lateral-dynamic-test",
+        "audio": "096",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "motostand-static-and-dynamic-test",
+        "title": "hotspot.title.motostand-static-and-dynamic-test",
+        "subtitle": null,
+        "description": "hotspot.description.motostand-static-and-dynamic-test",
+        "audio": "103",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "solarbox",
+        "title": "hotspot.title.solarbox",
+        "subtitle": null,
+        "description": "hotspot.description.solarbox",
+        "audio": "105",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "verivide-equipment",
+        "title": "hotspot.title.verivide-equipment",
+        "subtitle": null,
+        "description": "hotspot.description.verivide-equipment",
+        "audio": "106",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "color-measurement",
+        "title": "hotspot.title.color-measurement",
+        "subtitle": null,
+        "description": "hotspot.description.color-measurement",
+        "audio": "107",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "baby-seats-assembly-lines",
+        "title": "hotspot.title.baby-seats-assembly-lines",
+        "subtitle": null,
+        "description": "hotspot.description.baby-seats-assembly-lines",
+        "audio": "087",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "individual-assembly-lines",
+        "title": "hotspot.title.individual-assembly-lines",
+        "subtitle": null,
+        "description": "hotspot.description.individual-assembly-lines",
+        "audio": "088",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "bicycle-warehouse",
+        "title": "hotspot.title.bicycle-warehouse",
+        "subtitle": null,
+        "description": "hotspot.description.bicycle-warehouse",
+        "audio": "092",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "cargo-bay-1",
+        "title": "hotspot.title.cargo-bay-1",
+        "subtitle": null,
+        "description": "hotspot.description.cargo-bay-1",
+        "audio": null,
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "cargo-bay-2",
+        "title": "hotspot.title.cargo-bay-2",
+        "subtitle": null,
+        "description": "hotspot.description.cargo-bay-2",
+        "audio": null,
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "cargo-bay-3",
+        "title": "hotspot.title.cargo-bay-3",
+        "subtitle": null,
+        "description": "hotspot.description.cargo-bay-3",
+        "audio": null,
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "mizzo",
+        "title": "hotspot.title.mizzo",
+        "subtitle": null,
+        "description": "hotspot.description.mizzo",
+        "audio": "090",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "mattec",
+        "title": "hotspot.title.mattec",
+        "subtitle": null,
+        "description": "hotspot.description.mattec",
+        "audio": "089",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "decals-greenhouse",
+        "title": "hotspot.title.decals-greenhouse",
+        "subtitle": null,
+        "description": "hotspot.description.decals-greenhouse",
+        "audio": "119",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "cartesian-robot",
+        "title": "hotspot.title.cartesian-robot",
+        "subtitle": null,
+        "description": "hotspot.description.cartesian-robot",
+        "audio": null,
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "mold-parking",
+        "title": "hotspot.title.mold-parking",
+        "subtitle": null,
+        "description": "hotspot.description.mold-parking",
+        "audio": "114",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "gravimetric-or-volumetric-dozers",
+        "title": "hotspot.title.gravimetric-or-volumetric-dozers",
+        "subtitle": null,
+        "description": "hotspot.description.gravimetric-or-volumetric-dozers",
+        "audio": "113",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "automatic-feeding",
+        "title": "hotspot.title.automatic-feeding",
+        "subtitle": null,
+        "description": "hotspot.description.automatic-feeding",
+        "audio": "116",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "open-space-polinter",
+        "title": "hotspot.title.open-space-polinter",
+        "subtitle": null,
+        "description": "hotspot.description.open-space-polinter",
+        "audio": "111",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "polinter-the-group-injection-plant",
+        "title": "hotspot.title.polinter-the-group-injection-plant",
+        "subtitle": null,
+        "description": "hotspot.description.polinter-the-group-injection-plant",
+        "audio": "112",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "off-road-logistics-center",
+        "title": "hotspot.title.off-road-logistics-center",
+        "subtitle": null,
+        "description": "hotspot.description.off-road-logistics-center",
+        "audio": "121",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "assembly-lines",
+        "title": "hotspot.title.assembly-lines",
+        "subtitle": null,
+        "description": "hotspot.description.assembly-lines",
+        "audio": "123",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "dedicated-warehouse",
+        "title": "hotspot.title.dedicated-warehouse",
+        "subtitle": null,
+        "description": "hotspot.description.dedicated-warehouse",
+        "audio": "122",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "motorcycle-logistic-center",
+        "title": "hotspot.title.motorcycle-logistic-center",
+        "subtitle": null,
+        "description": "hotspot.description.motorcycle-logistic-center",
+        "audio": "124",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "multipurpose-matrix",
+        "title": "hotspot.title.multipurpose-matrix",
+        "subtitle": null,
+        "description": "hotspot.description.multipurpose-matrix",
+        "audio": "091",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "raw-material-warehouse",
+        "title": "hotspot.title.raw-material-warehouse",
+        "subtitle": null,
+        "description": "hotspot.description.raw-material-warehouse",
+        "audio": "118",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "dynamic-warehouse-2",
+        "title": "hotspot.title.dynamic-warehouse-2",
+        "subtitle": null,
+        "description": "hotspot.description.dynamic-warehouse-2",
+        "audio": "120",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    },
+    {
+        "id": "motorcycle-logistic-center-2",
+        "title": "hotspot.title.motorcycle-logistic-center-2",
+        "subtitle": null,
+        "description": "hotspot.description.motorcycle-logistic-center-2",
+        "audio": "124",
+        "image": null,
+        "video": null,
+        "knowMore": null
+    }
+]

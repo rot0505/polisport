@@ -1,0 +1,98 @@
+[
+  {
+    "title": "menu-ambiente.entrance-hall",
+    "route": "/vr/factory-polisport/5",
+    "env": "factory-polisport",
+    "mapId": "entrance-hall"
+  },
+  {
+    "title": "menu-ambiente.reception",
+    "route": "/vr/factory-polisport/57",
+    "env": "factory-polisport",
+    "mapId": "reception"
+  },
+  {
+    "title": "menu-ambiente.offices-hall",
+    "route": "/vr/factory-polisport/14",
+    "env": "factory-polisport",
+    "mapId": "officies-hall"
+  },
+  {
+    "title": "menu-ambiente.open-space",
+    "route": "/vr/factory-polisport/25",
+    "env": "factory-polisport",
+    "mapId": "open-space"
+  },
+  {
+    "title": "menu-ambiente.polisport-plastics-shop-floor",
+    "route": "/vr/factory-polisport/41",
+    "env": "factory-polisport",
+    "mapId": "polisport-plastics-shop-floor"
+  },
+  {
+    "title": "menu-ambiente.material-inspection",
+    "route": "/vr/factory-polisport/12",
+    "env": "factory-polisport",
+    "mapId": "material-inspection"
+  },
+  {
+    "title": "menu-ambiente.production-lines",
+    "route": "/vr/factory-polisport/50",
+    "env": "factory-polisport",
+    "mapId": "production-lines"
+  },
+  {
+    "title": "menu-ambiente.bicycle-warehouse",
+    "route": "/vr/factory-polisport/3",
+    "env": "factory-polisport",
+    "mapId": "bicycle-warehouse"
+  },
+  {
+    "title": "menu-ambiente.polisport-lab",
+    "route": "/vr/factory-polisport/34",
+    "env": "factory-polisport",
+    "mapId": "polisport-lab"
+  },
+  {
+    "title": "menu-ambiente.polinter-entry",
+    "route": "/vr/factory-polinter/6",
+    "env": "factory-polinter",
+    "mapId": "polinter-entry"
+  },
+  {
+    "title": "menu-ambiente.open-space",
+    "route": "/vr/factory-polinter/4",
+    "env": "factory-polinter",
+    "mapId": "open-space"
+  },
+  {
+    "title": "menu-ambiente.polinter-shop-floor",
+    "route": "/vr/factory-polinter/9",
+    "env": "factory-polinter",
+    "mapId": "polinter-shop-floor"
+  },
+  {
+    "title": "menu-ambiente.dynamic-warehouse",
+    "route": "/vr/factory-polinter/2",
+    "env": "factory-polinter",
+    "mapId": "dynamic-warehouse"
+  },
+  {
+    "title": "menu-ambiente.entrance",
+    "route": "/vr/motorcycle-logistics-center/1",
+    "env": "motorcycle-logistics-center",
+    "mapId": "entrance"
+  },
+  {
+    "title": "menu-ambiente.production",
+    "route": "/vr/motorcycle-logistics-center/3",
+    "env": "motorcycle-logistics-center",
+    "mapId": "production"
+  },
+  {
+    "title": "menu-ambiente.storage",
+    "route": "/vr/motorcycle-logistics-center/4",
+    "env": "motorcycle-logistics-center",
+    "mapId": "storage"
+  }
+]

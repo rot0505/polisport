@@ -1,0 +1,18 @@
+[
+  {
+    "title": "menu-ambiente-group.polisport-bicycle",
+    "route": "polisport-group/polisport-bicycle"
+  },
+  {
+    "title": "menu-ambiente-group.polisport-offroad",
+    "route": "polisport-group/polisport-offroad"
+  },
+  {
+    "title": "menu-ambiente-group.bobike",
+    "route": "polisport-group/bobike"
+  },
+  {
+    "title": "menu-ambiente-group.catlike",
+    "route": "polisport-group/catlike"
+  }
+]

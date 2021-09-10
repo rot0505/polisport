@@ -1,0 +1,42 @@
+[
+  {
+    "id": "polisport-plastics",
+    "route": "/polisport/polisport-plastics",
+    "image": "bg-polisport-plastics.jpg"
+  },
+  {
+    "id": "polisport-molds",
+    "route": "/polisport/polisport-molds",
+    "image": "bg-polisport-molds.jpg"
+  },
+  {
+    "id": "polinter-plastics",
+    "route": "/polisport/polinter-plastics",
+    "image": "bg-polinter-plastics.jpg"
+  },
+  {
+    "id": "motorcycle-logistics-center",
+    "route": "/polisport/motorcycle-logistics-center",
+    "image": "bg-motorcycle-logistics-center.jpg"
+  },
+  {
+    "id": "polipromotion",
+    "route": "/polisport/polipromotion",
+    "image": "bg-polipromotion.jpg"
+  },
+  {
+    "id": "bobike",
+    "route": "/polisport/bobike",
+    "image": "bg-bobike.jpg"
+  },
+  {
+    "id": "polistar",
+    "route": "/polisport/polistar",
+    "image": "bg-polistar.jpg"
+  },
+  {
+    "id": "polisport-usa",
+    "route": "/polisport/polisport-usa",
+    "image": "bg-polisport-usa.jpg"
+  }
+]

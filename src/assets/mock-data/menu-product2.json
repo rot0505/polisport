@@ -1,0 +1,324 @@
+{
+	"bicycle": [
+		{
+			"id": "1",
+			"image": "bicycles/commuter.jpg",
+			"title": "bicycle.1.title",
+			"model": "https://www.dropbox.com/s/zq1cqfj0e6dxoit/commuter.glb?dl=0",
+			"exposure": "2",
+			"video": "https://www.dropbox.com/s/tddked7an2xrma2/R550%202%20videos%20juntos.mp4?dl=0",
+			"knowMore": "https://www.polisport.com/pt/bicicleta/capacetes/adulto/commuter-capacete-urbano-com-luz-traseira-branco-e-cinzento-tamanho-m_p562.html?id=595&cat=582&pc=1"
+		},
+		{
+			"id": "2",
+			"image": "bicycles/baloons-helmet.jpg",
+			"title": "bicycle.2.title",
+			"model": "https://www.dropbox.com/s/gurbtg9fj22hz95/baloons-helmet.glb?dl=0",
+			"exposure": "2",
+			"knowMore": "https://www.polisport.com/pt/bicicleta/capacetes/crianca/xs-kids-capacete-para-crianca-cinzento_p504.html?id=604&cat=582&pc=1"
+		},
+		{
+			"id": "3",
+			"image": "bicycles/guppy-mini.jpg",
+			"title": "bicycle.3.title",
+			"model": "https://www.dropbox.com/s/bahbwv0rtfm20yz/guppy-mini.glb?dl=0",
+			"exposure": "1",
+			"knowMore": "https://www.polisport.com/pt/bicicleta/cadeiras-para-bicicleta/fixacao-frontal-ao-quadro/guppy-mini-cadeira-de-bicicleta-azul-e-bege-para-criancas-de-9-a-15-kg_p795.html?id=602&cat=582&pc=1"
+		},
+		{
+			"id": "4",
+			"image": "bicycles/groovy-cfs.jpg",
+			"title": "bicycle.4.title",
+			"model": "https://www.dropbox.com/s/t5hfk8eqgsvergs/groovy-cfs.glb?dl=0",
+			"video": "https://www.dropbox.com/sh/g4ke4dwrcre1v0k/AABwZJeQgNCYnznCSfFj8aA0a?dl=0",
+			"exposure": "1",
+			"knowMore": "https://www.polisport.com/pt/bicicleta/cadeiras-para-bicicleta/fixacao-ao-porta-bagagem/groovy-cfs-cadeira-para-bicicleta-com-fixacao-ao-porta-bagagem-castanha-e-preta_p4725.html?id=5&cat=0&pc=1"
+		},
+		{
+			"id": "5",
+			"image": "bicycles/light-pro.jpg",
+			"title": "bicycle.5.title",
+			"model": "https://www.dropbox.com/s/95nv0fxj460uo66/light-pro.glb?dl=0",
+			"exposure": "1",
+			"knowMore": "https://www.polisport.com/pt/bicicleta/capacetes/adulto/light-pro-capacete-de-competicao-para-estrada-e-mtb-vermelho-tamanho-m_p1018.html?id=607&cat=582&pc=1"
+		},
+		{
+			"id": "6",
+			"image": "bicycles/t500.jpg",
+			"title": "bicycle.6.title",
+			"model": "https://www.dropbox.com/s/5ahgsn3jkcy9on0/t500.glb?dl=0",
+			"video": "https://www.dropbox.com/s/jyf4bk480e9c806/POLISPORT_T500.mp4?dl=0",
+			"exposure": "1",
+			"knowMore": "https://www.polisport.com/pt/bicicleta/bidons/bidons-termicos/t500-bidon-termico-500ml-preto-e-verde-lima_p4755.html?id=687&cat=582&pc=1"
+		},
+		{
+			"id": "7",
+			"image": "bicycles/bundle-kit.jpg",
+			"title": "bicycle.7.title",
+			"model": "https://www.dropbox.com/s/t6ywutph7upd3cr/bundle-kit.glb?dl=0",
+			"video": "https://www.dropbox.com/s/tddked7an2xrma2/R550%202%20videos%20juntos.mp4?dl=0",
+			"exposure": "1",
+			"knowMore": "https://www.polisport.com/pt/bicicleta/bidons/bidons-de-rosca/bundle-kit-grade-de-bidon-pro-+-bidon-r550-branco_p4104.html?id=598&cat=582&pc=1"
+		},
+		{
+			"id": "8",
+			"image": "bicycles/trailer.jpg",
+			"title": "bicycle.8.title",
+			"model": "https://www.dropbox.com/s/hvgtsdl51wu1etp/trailer.glb?dl=0",
+			"exposure": "5",
+			"knowMore": "https://www.polisport.com/pt/bicicleta/transporte-e-mobilidade/trailer/polisport-trailer-atrelado-de-bicicleta-e-carrinho-de-transporte_p4586.html?id=678&cat=582&pc=1"
+		},
+		{
+			"id": "9",
+			"image": "bicycles/balance-bike.jpg",
+			"title": "bicycle.9.title",
+			"model": "https://www.dropbox.com/s/9yfotus5hifntkz/balance-bike.glb?dl=0",
+			"video": "https://www.dropbox.com/s/z95f4lxlrjf0zka/BALANCE_BIKE.mp4?dl=0",
+			"exposure": "1",
+			"knowMore": "https://www.polisport.com/pt/bicicleta/transporte-e-mobilidade/bicicleta-de-aprendizagem/balance-bike-bicicleta-infantil-de-aprendizagem-bege-e-verde-menta_p4068.html?id=677&cat=582&pc=1"
+		},
+		{
+			"id": "10",
+			"image": "bicycles/mud-pro.jpg",
+			"title": "bicycle.10.title",
+			"model": "https://www.dropbox.com/s/t8xfln74mrypd2v/mud-pro.glb?dl=0",
+			"video": "https://www.dropbox.com/s/zobyjmwk7r0p963/MUD-PRO_TRAS_V4.mp4?dl=0",
+			"exposure": "4",
+			"knowMore": "https://www.polisport.com/pt/bicicleta/guarda-lamas/frontal/mud-pro-guarda-lamas-frontal-para-mtb_p4028.html?id=596&cat=582&pc=1"
+		}
+	],
+	"bobike": [
+		{
+			"id": "1",
+			"image": "bobike/balance-bike.jpg",
+			"title": "bobike.1.title",
+			"model": "https://www.dropbox.com/s/uascs6qx35y821a/balance-bike.glb?dl=0",
+			"exposure": "1",
+			"knowMore": "https://bobike.com/en/product/detail/bobike-balance-bike"
+		},
+		{
+			"id": "2",
+			"image": "bobike/exclusive-maxi.jpg",
+			"title": "bobike.2.title",
+			"model": "https://www.dropbox.com/s/kc3b9bfipm43ng9/exclusive-maxi.glb?dl=0",
+			"exposure": "1",
+			"video": "https://www.dropbox.com/s/yeoq4cpumwx2d0s/Go%20explore%20with%20Bobike.mp4?dl=0",
+			"knowMore": "https://bobike.com/en/product/detail/exclusive-maxi-plus"
+		},
+		{
+			"id": "3",
+			"image": "bobike/exclusive-mini.jpg",
+			"title": "bobike.3.title",
+			"model": "https://www.dropbox.com/s/057k4cmyofgmcnr/exclusive-mini.glb?dl=0",
+			"exposure": "1",
+			"knowMore": "https://bobike.com/en/product/detail/exclusive-mini-plus"
+		},
+		{
+			"id": "4",
+			"image": "bobike/exclusive-tour.jpg",
+			"title": "bobike.4.title",
+			"model": "https://www.dropbox.com/s/m5wmd5hfl0yfjqc/exclusive-tour.glb?dl=0",
+			"exposure": "1",
+			"knowMore": "https://bobike.com/en/product/detail/exclusive-tour-plus"
+		},
+		{
+			"id": "5",
+			"image": "bobike/go-maxi.jpg",
+			"title": "bobike.5.title",
+			"model": "https://www.dropbox.com/s/n1s4lt2cxxknm0x/go-maxi.glb?dl=0",
+			"exposure": "1",
+			"video": "https://www.dropbox.com/s/3oh02cgz1669fe4/bobike-go-maxi.mp4?dl=0",
+			"knowMore": "https://bobike.com/en/product/detail/bobike-go"
+		},
+		{
+			"id": "6",
+			"image": "bobike/go-mini.jpg",
+			"title": "bobike.6.title",
+			"model": "bobike/go-mini.glb",
+			"exposure": "1",
+			"knowMore": "https://bobike.com/en/product/detail/bobike-go-1"
+		},
+		{
+			"id": "7",
+			"image": "bobike/kids-plus-helmets.jpg",
+			"title": "bobike.7.title",
+			"model": "bobike/kids-plus-helmets.glb",
+			"exposure": "1",
+			"knowMore": "https://bobike.com/en/product/detail/kids-plus-xs-helmet"
+		},
+		{
+			"id": "8",
+			"image": "bobike/one-maxi.jpg",
+			"title": "bobike.8.title",
+			"model": "https://www.dropbox.com/s/qujk27vjejbo99q/one-maxi.glb?dl=0",
+			"exposure": "2",
+			"video": "https://www.dropbox.com/s/0lp8f0foil1vdx1/bobike-one-maxi.mp4?dl=0",
+			"knowMore": "https://bobike.com/en/product/detail/one-maxi"
+		},
+		{
+			"id": "9",
+			"image": "bobike/one-mini.jpg",
+			"title": "bobike.9.title",
+			"model": "https://www.dropbox.com/s/gira9q38wdur51h/one-mini.glb?dl=0",
+			"exposure": "2",
+			"video": "https://www.dropbox.com/s/pb3v3m9r90xsbpl/BOBIKE_One_Mini_05_Junho.mp4?dl=0",
+			"knowMore": "https://bobike.com/en/product/detail/bobike-one-mini-1"
+		},
+		{
+			"id": "10",
+			"image": "bobike/one-plus-helemets-xs.jpg",
+			"title": "bobike.10.title",
+			"model": "https://www.dropbox.com/s/bls8bcufp8nvrry/one-plus-helemets-xs.glb?dl=0",
+			"exposure": "2",
+			"knowMore": "https://bobike.com/en/product/detail/bobike-one-plus-helmets"
+		}
+	],
+	"catlike": [
+		{
+			"id": "1",
+			"image": "catlike/kilauea.jpg",
+			"title": "catlike.1.title",
+			"model": "https://www.dropbox.com/s/7agjumj61edfdp9/kilauea.glb?dl=0",
+			"exposure": "3",
+			"knowMore": "https://www.catlike.com/"
+		},
+		{
+			"id": "2",
+			"image": "catlike/kompacto.jpg",
+			"title": "catlike.2.title",
+			"model": "https://www.dropbox.com/s/ukh9sfpnedj89e9/kompacto.glb?dl=0",
+			"exposure": "2",
+			"knowMore": "https://www.catlike.com/"
+		},
+		{
+			"id": "3",
+			"image": "catlike/mixino.jpg",
+			"title": "catlike.3.title",
+			"model": "https://www.dropbox.com/s/1tjtgmh5xtjuxjg/mixno.glb?dl=0",
+			"exposure": "2",
+			"knowMore": "https://www.catlike.com/"
+		},
+		{
+			"id": "4",
+			"image": "catlike/vento.jpg",
+			"title": "catlike.4.title",
+			"model": "https://www.dropbox.com/s/92xhuj0almottrp/vento.glb?dl=0",
+			"exposure": "1",
+			"knowMore": "https://www.catlike.com/"
+		},
+		{
+			"id": "5",
+			"image": "catlike/whisper-evo.jpg",
+			"title": "catlike.5.title",
+			"model": "https://www.dropbox.com/s/at4dawu0nq7qa2o/whisper-evo.glb?dl=0",
+			"exposure": "9",
+			"knowMore": "https://www.catlike.com/"
+		},
+		{
+			"id": "6",
+			"image": "catlike/whisper-oval-carbon-mtb.jpg",
+			"title": "catlike.6.title",
+			"model": "https://www.dropbox.com/s/j5wjoeszgnkw0m2/whisper-oval-carbon-mtb.glb?dl=0",
+			"exposure": "2",
+			"knowMore": "https://www.catlike.com/"
+		},
+		{
+			"id": "7",
+			"image": "catlike/whisper-oval-carbon-road.jpg",
+			"title": "catlike.7.title",
+			"model": "https://www.dropbox.com/s/pky4v7wy0nwptg1/whisper-oval-carbon-road.glb?dl=0",
+			"exposure": "2",
+			"knowMore": "https://www.catlike.com/"
+		}
+	],
+	"offroad": [
+		{
+			"id": "1",
+			"image": "offroad/armadillo-pipe-guard.jpg",
+			"title": "offroad.1.title",
+			"model": "https://www.dropbox.com/s/hj26cu42equo68k/armadillo-pipe-guard.glb?dl=0",
+			"exposure": "3",
+			"video": "https://www.dropbox.com/s/hwfgu45k4prqv8s/Armadillo.mp4?dl=0",
+			"knowMore": "https://www.polisport.com/en/off-road/performance-parts-and-accessories/performance-parts/armadillo-2-strokes-pipe-guard-orange-ktm_p3946.html?id=578&cat=541&pc=1"
+		},
+		{
+			"id": "2",
+			"image": "offroad/clutch-ignition-protectors.jpg",
+			"title": "offroad.2.title",
+			"model": "https://www.dropbox.com/s/c5zqzlpa4xdl0ta/clutch-ignition-protectors.glb?dl=0",
+			"exposure": "1",
+			"video": "https://www.dropbox.com/s/ydciqonh76bkrai/Clutch%202%20videos%20juntos.mp4?dl=0",
+			"knowMore": "https://www.polisport.com/en/off-road/performance-parts-and-accessories/performance-parts_578-541.html?ft=c3ViY2F0ZWdvcmlhfHw1N1w1OA==%0a%0ahttps://www.polisport.com/en/off-road/performance-parts-and-accessories/performance-parts_578-541.html?ft=c3ViY2F0ZWdvcmlhfHw2Mg=="
+		},
+		{
+			"id": "3",
+			"image": "offroad/disc-bottom-fork-guards.jpg",
+			"title": "offroad.3.title",
+			"model": "https://www.dropbox.com/s/q830ubv8z5ood59/disc-bottom-fork-guards.glb?dl=0",
+			"exposure": "1",
+			"video": "https://www.dropbox.com/s/ygxitznd5qs0ond/Disc%20%26%20Bottom%20Fork%20Protector.mp4?dl=0",
+			"knowMore": "https://www.polisport.com/en/off-road/performance-parts-and-accessories/performance-parts_578-541.html?ft=c3ViY2F0ZWdvcmlhfHw1OQ%3D%3D"
+		},
+		{
+			"id": "4",
+			"image": "offroad/fortress-skid-plate.jpg",
+			"title": "offroad.4.title",
+			"model": "https://www.dropbox.com/s/riqa3ivzst6bdbm/fortress-skid-plate.glb?dl=0",
+			"exposure": "1",
+			"video": "https://www.dropbox.com/s/vtteoxlvqipqmry/FORTRESS%20Skid%20Plate.mp4?dl=0",
+			"knowMore": "https://www.dropbox.com/s/qdutx5ruauxrqd0/FORTRESS_Skid_Plate.mp4?dl=0"
+		},
+		{
+			"id": "5",
+			"image": "offroad/front-sprocket-protector.jpg",
+			"title": "offroad.5.title",
+			"model": "https://www.dropbox.com/s/0j08buhjveh4dlv/front-sprocket-protector.glb?dl=0",
+			"exposure": "1",
+			"knowMore": "https://www.polisport.com/en/off-road/performance-parts-and-accessories/performance-parts_578-541.html?ft=c3ViY2F0ZWdvcmlhfHw5MQ=="
+		},
+		{
+			"id": "6",
+			"image": "offroad/graphic-guards-protector.jpg",
+			"title": "offroad.6.title",
+			"model": "https://www.dropbox.com/s/jw6d2f9a0rnhv80/graphic-guards-protector.glb?dl=0",
+			"exposure": "1",
+			"video": "https://www.dropbox.com/s/ru6p24tobt0by2t/Graphic%20Guards%20Protector_1920x1080%20%281%29.mp4?dl=0",
+			"knowMore": "https://www.polisport.com/en/off-road/performance-parts-and-accessories/performance-parts_578-541.html?ft=c3ViY2F0ZWdvcmlhfHw1MA=="
+		},
+		{
+			"id": "7",
+			"image": "offroad/prooctane-utility-can.jpg",
+			"title": "offroad.7.title",
+			"model": "https://www.dropbox.com/s/wsi3e12zxxjof2f/prooctane-utility-can.glb?dl=0",
+			"exposure": "1",
+			"video": "https://www.dropbox.com/s/3qa9w5wbcnifmv9/PROOCTANE%20JERRY%20CAN_EN.mp4?dl=0",
+			"knowMore": "https://www.polisport.com/en/off-road/performance-parts-and-accessories/track-accessories/prooctane-20l-fuel-tank-with-fill-hose_p3952.html?id=577&cat=541&pc=1"
+		},
+		{
+			"id": "8",
+			"image": "offroad/restyling-kits.jpg",
+			"title": "offroad.8.title",
+			"model": "https://www.dropbox.com/s/7dl38bxlat7yero/restyling-kits.glb?dl=0",
+			"exposure": "1",
+			"video": "https://www.dropbox.com/s/2sy5uru6dzsqp11/Kawasaki-KX-125250-20032008-Restyling-Kit-EMBRACE-THE-CHANGE_1080p_1.mp4?dl=0",
+			"knowMore": "https://www.polisport.com/en/off-road/restyling-kits_670-541.html"
+		},
+		{
+			"id": "9",
+			"image": "offroad/silencer-protector.jpg",
+			"title": "offroad.9.title",
+			"model": "https://www.dropbox.com/s/8lv9hxi7scs3cls/silencer-protector.glb?dl=0",
+			"exposure": "2",
+			"video": "https://www.dropbox.com/s/yttvfcxtc65diqe/Polisport-Silencer-Protector_1920x1080.mp4?dl=0",
+			"knowMore": "https://www.polisport.com/en/off-road/performance-parts-and-accessories/performance-parts_578-541.html?ft=c3ViY2F0ZWdvcmlhfHw5Mw=="
+		},
+		{
+			"id": "10",
+			"image": "offroad/track-stand.jpg",
+			"title": "offroad.10.title",
+			"model": "https://www.dropbox.com/s/kaywbqho0k0wszg/track-stand.glb?dl=0",
+			"exposure": "2",
+			"knowMore": "https://www.polisport.com/en/off-road/performance-parts-and-accessories/track-accessories/polisport-track-stand-pit-stand-blackorange_p3167.html?id=577&cat=541&pc=1"
+		}
+	]
+}

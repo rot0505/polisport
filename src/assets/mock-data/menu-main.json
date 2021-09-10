@@ -1,0 +1,59 @@
+[{
+    "id": "menu-main.corporate"
+  },
+  {
+    "id": "menu-main.timeline"
+  },
+  {
+    "id": "menu-main.factory",
+    "submenu": [{
+        "text": "main-menu-sub.factory-1",
+        "link": "/vr/factory-polisport/5"
+      },
+      {
+        "text": "main-menu-sub.factory-2",
+        "link": "/vr/factory-polinter/6"
+      },
+      {
+        "text": "main-menu-sub.factory-3",
+        "link": "/vr/motorcycle-logistics-center/1"
+      }
+    ]
+  },
+  {
+    "id": "menu-main.showroom",
+    "submenu": [{
+        "text": "main-menu-sub.showroom-1",
+        "link": "/polisport/motorcycle-logistics-center"
+      },
+      {
+        "text": "main-menu-sub.showroom-2",
+        "link": "/polisport/polistar"
+      },
+      {
+        "text": "main-menu-sub.showroom-3",
+        "link": "/polisport/bobike"
+      }
+    ]
+  },
+  {
+    "id": "menu-main.products",
+    "submenu": [{
+        "text": "main-menu-sub.product-1",
+        "link": "/products/bicycle"
+      },
+      {
+        "text": "main-menu-sub.product-2",
+        "link": "/products/bobike"
+      },
+      {
+        "text": "main-menu-sub.product-3",
+        "link": "/products/catlike"
+      },
+      {
+        "text": "main-menu-sub.product-4",
+        "link": "/products/offroad"
+      }
+    ]
+  }
+]
